@@ -2,3 +2,28 @@ We are using React and Vite
 
 to run Vite: 
     npm run dev
+
+PARA EL CONFETI
+
+npm install canvas confetti -E
+import it  and confetti()
+
+
+We learned components and Use State() in the 02-tic-tac-toe play
+
+for example:
+const [winner,setWinner] = useState(null)
+
+
+We learned Use effect()
+Es un hook que nos permite ejecutar codigo arbitrario cuando el componente se monta en el DOM y cada vez que cambian las dependencias que nosotros le digamos.
+
+
+3 project:
+we install: npm install standard
+and incluide this in package.json:
+ "eslintConfig": {
+    "extends":"./node_modules/standard/esLintrc.json"
+  }
+and we need the extension:
+ESLint
