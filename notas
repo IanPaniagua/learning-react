@@ -30,4 +30,13 @@ ESLintl
 and install it in the mpn
 
 03-mouse-follower
-cd 
+
+
+Hasta ahora estamos trabajando en el modo produccion. Para cambiar al modo produccion y publicar la web:
+
+#npm run build
+cd dist
+explorer . 
+
+and then in the website netlify.com/drop
+you can drop the folder dist to publish
