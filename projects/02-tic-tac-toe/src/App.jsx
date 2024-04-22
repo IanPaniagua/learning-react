@@ -114,3 +114,4 @@ const updateBoard = (index)=> {
 }
 
 export default App
+

@@ -19,11 +19,15 @@ We learned Use effect()
 Es un hook que nos permite ejecutar codigo arbitrario cuando el componente se monta en el DOM y cada vez que cambian las dependencias que nosotros le digamos.
 
 
-3 project:
+3 project:  
 we install: npm install standard
 and incluide this in package.json:
  "eslintConfig": {
-    "extends":"./node_modules/standard/esLintrc.json"
+    "extends":"./node_modules/standard/eslintrc.json"
   }
 and we need the extension:
-ESLint
+ESLintl
+and install it in the mpn
+
+03-mouse-follower
+cd 
