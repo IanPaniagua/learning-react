@@ -98,7 +98,7 @@ const updateBoard = (index)=> {
                 : 'Ganó: '
               }
             </h2>
-            <header className='win'>
+            <header className='win'>cd
               {winner && <Square>{winner}</Square>}
             </header>
 

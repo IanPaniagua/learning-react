@@ -1,5 +1,10 @@
 We are using React and Vite
 
+
+CREATE A NEW PROJECT
+npm create vite@latest
+
+
 to run Vite: 
     npm run dev
 
