@@ -61,6 +61,17 @@ export function App() {
             <h1>App de gatitos</h1>
         {fact && <p>{fact}</p>} 
         <img src={imageUrl} alt="" />
+        <div>
+            <p>APIs</p>
+            <ul>
+                <li>Random Facts: https://catfact.ninja/fact</li>
+                <li>Random image: https://cataas.com/cat/says/hello</li>
+            </ul>
+            <p>Retrieves a random cat fact and displays an image of a cat with the first word of the retrieved fact using the second API.</p>
+        </div>
+        <div>
+            <p>Practice fetch(), useState() and useEffect() with React & JS </p>
+        </div>
         </main>
     )
 }
